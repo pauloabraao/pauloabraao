@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Paulo Abraão 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232926A7&lines=Front-End+Developer+in+progress)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232926A7&lines=Back-End+Developer+in+progress)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%231A1869&size=28&lines=Full+Stack+Developer+in+progress)](https://git.io/typing-svg))
 
 <div align="left">
   <a href="https://github.com/pauloabraao">
@@ -46,12 +46,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pauloabraao's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloabraao&theme=tokyonight&hide_border=true"/>
   </a>
  
-  
-
-**pauloabraao/pauloabraao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
