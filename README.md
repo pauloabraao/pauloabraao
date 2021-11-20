@@ -21,6 +21,7 @@
   <img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  
   ![Snake animation](https://github.com/pauloabraao/pauloabraao/blob/output/github-contribution-grid-snake.svg) 
 </div>  
  
