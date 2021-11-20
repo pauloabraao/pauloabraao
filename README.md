@@ -9,7 +9,7 @@
 ## 👨‍🎓 About Me
 
 <div>
-  <p><b>Hi, my name is Paulo Abraão. I'm graduating in Computer Engineering from Federal University of Ceará - UFC<b></p>
+  <p><b>Hi, my name is Paulo Abraão, currently 19 years old. I'm graduating in Computer Engineering from Federal University of Ceará - UFC. Ask me about HTML, CSS and Javascript.<b></p>
 </div>
     
 ## My GitHub Stats
