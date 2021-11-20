@@ -2,8 +2,9 @@
 
 ### Hi there, I'm Paulo Abraão 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%231A1869&size=28&lines=Full+Stack+Developer+in+progress)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%231A1869&size=28&lines=Full+Stack+Developer+in+progress)](https://git.io/typing-svg)
 
+<br/>
 <div align="left">
   <a href="https://github.com/pauloabraao">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
