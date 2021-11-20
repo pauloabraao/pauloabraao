@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Paulo Abraão 🖖
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%231A1869&size=25&lines=Full+Stack+Developer+in+progress)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+neue&color=%23D71B3D&size=28&lines=Full+Stack+Developer+in+progress)](https://git.io/typing-svg)
 
 <br/>
 
