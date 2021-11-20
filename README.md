@@ -1,4 +1,4 @@
-<img align="left" alt="abe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911592618725605379/911592702934667305/Design_sem_nome_1.gif?width=369&height=369"/>
+<img align="left" alt="abe-pic" height="150" style="border-radius:50px;" src= myGif.gif/>
 
 ## Hi there, I'm Paulo Abraão 🖖
 
