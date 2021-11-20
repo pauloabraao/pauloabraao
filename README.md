@@ -1,5 +1,6 @@
 ### Hi there, I'm Paulo Abraão 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232926A7&lines=Front-End+Developer+in+progress)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232926A7&lines=Back-End+Developer+in+progress)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/pauloabraao">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,7 +23,15 @@
   <img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   
   ![Snake animation](https://github.com/pauloabraao/pauloabraao/blob/output/github-contribution-grid-snake.svg) 
-</div>  
+</div>
+  
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/pauloabraao/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/pauloabraao/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pauloabraao's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloabraao&theme=tokyonight&hide_border=true"/>
+  </a>
  
   
 
