@@ -9,8 +9,11 @@
 ## 👨‍🎓 About Me
 
 <div>
-  <p><b><b></p>
+  <p><b>Hi, my name is Paulo Abraão. I'm graduating in Computer Engineering from Federal University of Ceará - UFC<b></p>
 </div>
+    
+## My GitHub Stats
+    
 <div align="left">
   <a href="https://github.com/pauloabraao">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
