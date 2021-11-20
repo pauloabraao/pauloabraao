@@ -1,11 +1,10 @@
-### Hi there 👋
-<div align="right" style="display: flex">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911592618725605379/911592702934667305/Design_sem_nome_1.gif?width=369&height=369">
-</div>
+### Hi there, I'm Paulo Abraão 👋
+
 <div align="center">
   <a href="https://github.com/pauloabraao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloabraao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloabraao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="right" alt="abe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911592618725605379/911592702934667305/Design_sem_nome_1.gif?width=369&height=369">
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Abe-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
