@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232926A7&lines=Front-End+Developer+in+progress)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232926A7&lines=Back-End+Developer+in+progress)](https://git.io/typing-svg)
 <div align="left">
   <a href="https://github.com/pauloabraao">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloabraao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloabraao&layout=compact&langs_count=7&theme=tokyonight"/>
   
 </div>
 <div align="center" style="display: inline_block"><br>
