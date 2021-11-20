@@ -1,10 +1,16 @@
 <img align="left" alt="abe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911592618725605379/911592702934667305/Design_sem_nome_1.gif?width=369&height=369"/>
 
-## Hi there, I'm Paulo Abraão 👋
+## Hi there, I'm Paulo Abraão 🖖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%231A1869&size=28&lines=Full+Stack+Developer+in+progress)](https://git.io/typing-svg)
 
 <br/>
+
+## 👨‍🎓 About Me
+
+<div>
+  <p><b><b></p>
+</div>
 <div align="left">
   <a href="https://github.com/pauloabraao">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -47,13 +53,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pauloabraao's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloabraao&theme=tokyonight&hide_border=true"/>
   </a>
  
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
