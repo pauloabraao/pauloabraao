@@ -1,6 +1,6 @@
 <img align="left" alt="abe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911592618725605379/911592702934667305/Design_sem_nome_1.gif?width=369&height=369"/>
 
-### Hi there, I'm Paulo Abraão 👋
+## Hi there, I'm Paulo Abraão 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%231A1869&size=28&lines=Full+Stack+Developer+in+progress)](https://git.io/typing-svg)
 
