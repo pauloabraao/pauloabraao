@@ -27,11 +27,11 @@
   <img src= bat.gif alt="Morcego" width="45">
 </h2>    
 <div align="center" style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/paulo-abra%C3%A3o-teles-lima-2758a51a9/" target="_blank"><img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/abraham_tellesy" target="_blank"><img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  <img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img href="https://instagram.com/abe_telles" align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/paulo-abra%C3%A3o-teles-lima-2758a51a9/" target="_blank"><img align="center" alt="Abe-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/abraham_tellesy" target="_blank"><img align="center" alt="Abe-Twiiter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img align="center" alt="Abe-Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img align="center" alt="Abe-Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   <a href= href="https://instagram.com/abe_telles" target="_blank"><img align="center" alt="Abe-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    
 </div>
 <h2 align="left">My GitHub Stats
