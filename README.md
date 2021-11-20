@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232926A7&lines=Front-End+Developer+in+progress)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232926A7&lines=Back-End+Developer+in+progress)](https://git.io/typing-svg)
 <div align="left">
   <a href="https://github.com/pauloabraao">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloabraao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloabraao&layout=compact&langs_count=7&theme=tokyonight"/>
   <img align="right" alt="abe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911592618725605379/911592702934667305/Design_sem_nome_1.gif?width=369&height=369">
 </div>
 <div align="center" style="display: inline_block"><br>
