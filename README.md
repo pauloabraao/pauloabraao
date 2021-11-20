@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="right" style="display: flex">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911592618725605379/911592702934667305/Design_sem_nome_1.gif?width=369&height=369">
+</div>
 <div align="center">
   <a href="https://github.com/pauloabraao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloabraao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,7 +22,7 @@
   <img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img align="center" alt="Abe-Photoshop" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div>  
-  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
   
 
 **pauloabraao/pauloabraao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
