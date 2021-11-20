@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+neue&color=%23D71B3D&size=28&lines=Full+Stack+Developer+in+progress)](https://git.io/typing-svg)
 
 <br/>
-
+<img align="left" src='.github/bat.gif' alt="Morcego" width="50">
 ## 👨‍🎓 About Me
 
 <div>
